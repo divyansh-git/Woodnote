@@ -1,0 +1,24 @@
+.header{
+    background-color: rgb(161,198,83);
+    
+}
+.span{
+    text-decoration: none;
+}
+.Logo{
+    color: white;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    font-size:2rem;
+}
+.Logo:hover{
+    text-decoration:none;
+    color:white;
+}
+.links{
+    color:black;
+}
+.links:hover{
+    text-decoration: none;
+    color:black;
+    font-size: 1.5rem;
+}

@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Sansita+Swashed:wght@300&family=Source+Serif+Pro:ital,wght@0,300;1,300&display=swap');
+body {
+  margin: 0;
+  font-family: 'EB Garamond', serif;
+  font-size: 1.25rem;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+

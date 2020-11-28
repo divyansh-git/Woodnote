@@ -1,0 +1,43 @@
+.Blog_Card
+{
+    width:25%;
+    margin:20px 3.5%;
+    display:inline-block;   
+    background-color: rgb(181,218,118);
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px black;
+}
+@media only screen and (max-width: 1066px) {
+    .Blog_Card {
+     width:40%;
+     margin:20px 5%;
+    }
+  }
+@media only screen and (max-width: 628px) {
+    .Blog_Card {
+     width:40%;
+     margin:20px 5%;
+    }
+  }
+@media only screen and (max-width: 444px) {
+    .Blog_Card {
+     width:65%;
+     margin:20px 18%;
+    }
+  }
+.Blog_Card:hover
+{
+    box-shadow: 5px 5px 10px black;   
+}
+
+.card_image img{
+    width:100%;
+    max-height:200px;
+    border-radius: 5px;
+}
+.card_title{
+    margin-left: 10px;
+}
+.card_description{
+    margin-left: 10px;
+}

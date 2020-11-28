@@ -1,0 +1,6 @@
+.DailyLife_Container{
+    background-image: url("./DailyLife_Blog_Wallpaper.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    height:95vh;
+  }
