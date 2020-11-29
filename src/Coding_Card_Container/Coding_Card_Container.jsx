@@ -10,7 +10,7 @@ function Bcard(val)
     let {path,url} =useRouteMatch();
     return(
         <>
-        <Link to={`${url}/${val.blog_name}`}><Blog_Card image={val.blog_image} title={val.blog_name} description={val.blog_description} /></Link>
+        <Link style={{textDecoration:"none"}} to={`${url}/${val.blog_name}`}><Blog_Card image={val.blog_image} title={val.blog_name} description={val.blog_description} /></Link>
        </>
     )
 }

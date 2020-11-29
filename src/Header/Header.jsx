@@ -15,7 +15,7 @@ let Header=()=>{
   <Navbar.Brand >< Link className="Logo" to="/">Woodnote</Link></Navbar.Brand>
   <Navbar.Toggle aria-controls="basic-navbar-nav" />
   <Navbar.Collapse id="basic-navbar-nav">
-    <Nav className="mr-auto">
+    <Nav className="mr-auto custom_nav">
       <Nav.Link ><Link className="links" to="/Music">Music</Link></Nav.Link>
       <Nav.Link ><Link className="links" to="/Coding">Coding</Link></Nav.Link>
       <Nav.Link ><Link className="links" to="/Daily Life">Life Style</Link></Nav.Link>

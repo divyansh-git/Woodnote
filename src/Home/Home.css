@@ -1,14 +1,46 @@
-h1{
+.Home h1{
+  font-size: 4.5rem;
    padding-top:10%;
    text-align: center;
    color: rgb(31,86,102);
+   animation-name: fade;
+  animation-duration: 2s;
 }
 .Home p{
   color: rgb(31,86,102);
   text-align: center !important;
+  animation-name: fade;
+  animation-duration: 2s;
 }
 .Home{
-  background: url(./wallpaperflare.com_wallpaper.jpg) no-repeat center center fixed;
+  background: url(./Home_Background.jpg) no-repeat center center fixed;
   background-size: cover;
-  height:98vh;
+  height:93vh;
+}
+#featured{
+  display:flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.Home button{
+  display:block;
+  margin-left:auto;
+  margin-right:auto;
+}
+.Home button a{
+  text-decoration: none;
+  color:black;
+}
+#category{
+  display:block;
+  scroll-behavior: smooth;
+  text-align: center;
+  padding-top:5%;
+  color:white;
+  margin-bottom:6%;
+  font-size:3rem;
+}
+.features{
+  background: url("../Media/pexels-asad-photo-maldives.jpg") no-repeat center center fixed ;
+  background-size: cover;
 }
