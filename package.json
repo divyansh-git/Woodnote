@@ -1,6 +1,6 @@
 {
-  "homepage": "http://divyansh-git.github.io/Woodnote",
   "name": "blog-website",
+  "homepage": "https://divyansh-git.github.io/Woodnote",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
