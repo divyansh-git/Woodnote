@@ -1,6 +1,6 @@
 import React from "react";
 import Header from "./Header/Header";
-import {Switch, Route,BrowserRouter, useRouteMatch, useParams} from "react-router-dom";
+import {Switch, Route,BrowserRouter} from "react-router-dom";
 import Music_Card_Container from "./Music_Card_Container/Music_Card_Container";
 import Coding_Card_Container from "./Coding_Card_Container/Coding_Card_Container";
 import DailyLife_Card_Container from "./DailyLife_Card_Container/DailyLife_Card_Container";
@@ -16,7 +16,7 @@ function App() {
         <BrowserRouter>
         <Header/>
         <Switch>
-          <Route exact path ="/" component={Home}/>
+          <Route  path ="/" component={Home}/>
           <Route   exact path="/Music" component={Music_Card_Container} />
           <Route   path={`/Music/:id`} component={Music_Blog_Controller}/>
           <Route  exact path="/Coding" component={Coding_Card_Container} />
