@@ -16,7 +16,7 @@ function App() {
         <BrowserRouter>
         <Header/>
         <Switch>
-          <Route  path ="/" component={Home}/>
+          <Route  path ="/woodnote" component={Home}/>
           <Route   exact path="/Music" component={Music_Card_Container} />
           <Route   path={`/Music/:id`} component={Music_Blog_Controller}/>
           <Route  exact path="/Coding" component={Coding_Card_Container} />
