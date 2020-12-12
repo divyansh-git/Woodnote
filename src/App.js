@@ -13,8 +13,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 function App() {
   return (
       <div className="App">
-        <Header/>
         <BrowserRouter>
+        <Header/>
         <Switch>
           <Route  exact path ="/" component={Home}/>
           <Route   exact path="/Music" component={Music_Card_Container} />
