@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.04ba8152.chunk.css",
-    "main.js": "/static/js/main.611534f1.chunk.js",
-    "main.js.map": "/static/js/main.611534f1.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.eb4c4db9.js",
-    "runtime-main.js.map": "/static/js/runtime-main.eb4c4db9.js.map",
-    "static/css/2.1a02f21c.chunk.css": "/static/css/2.1a02f21c.chunk.css",
-    "static/js/2.e32fcc2a.chunk.js": "/static/js/2.e32fcc2a.chunk.js",
-    "static/js/2.e32fcc2a.chunk.js.map": "/static/js/2.e32fcc2a.chunk.js.map",
-    "static/js/3.9cc71346.chunk.js": "/static/js/3.9cc71346.chunk.js",
-    "static/js/3.9cc71346.chunk.js.map": "/static/js/3.9cc71346.chunk.js.map",
-    "index.html": "/index.html",
-    "static/css/2.1a02f21c.chunk.css.map": "/static/css/2.1a02f21c.chunk.css.map",
-    "static/css/main.04ba8152.chunk.css.map": "/static/css/main.04ba8152.chunk.css.map",
-    "static/js/2.e32fcc2a.chunk.js.LICENSE.txt": "/static/js/2.e32fcc2a.chunk.js.LICENSE.txt",
-    "static/media/DailyLife_Card_Container.css": "/static/media/Home_Background.d6b13229.jpg",
-    "static/media/Home.css": "/static/media/pexels-asad-photo-maldives.7c2244a2.jpg"
+    "main.css": "/woodnote/static/css/main.8696e71c.chunk.css",
+    "main.js": "/woodnote/static/js/main.4fa0d3a1.chunk.js",
+    "main.js.map": "/woodnote/static/js/main.4fa0d3a1.chunk.js.map",
+    "runtime-main.js": "/woodnote/static/js/runtime-main.49fdd2f8.js",
+    "runtime-main.js.map": "/woodnote/static/js/runtime-main.49fdd2f8.js.map",
+    "static/css/2.1a02f21c.chunk.css": "/woodnote/static/css/2.1a02f21c.chunk.css",
+    "static/js/2.e6a4b7bf.chunk.js": "/woodnote/static/js/2.e6a4b7bf.chunk.js",
+    "static/js/2.e6a4b7bf.chunk.js.map": "/woodnote/static/js/2.e6a4b7bf.chunk.js.map",
+    "static/js/3.9cc71346.chunk.js": "/woodnote/static/js/3.9cc71346.chunk.js",
+    "static/js/3.9cc71346.chunk.js.map": "/woodnote/static/js/3.9cc71346.chunk.js.map",
+    "index.html": "/woodnote/index.html",
+    "static/css/2.1a02f21c.chunk.css.map": "/woodnote/static/css/2.1a02f21c.chunk.css.map",
+    "static/css/main.8696e71c.chunk.css.map": "/woodnote/static/css/main.8696e71c.chunk.css.map",
+    "static/js/2.e6a4b7bf.chunk.js.LICENSE.txt": "/woodnote/static/js/2.e6a4b7bf.chunk.js.LICENSE.txt",
+    "static/media/DailyLife_Card_Container.css": "/woodnote/static/media/Home_Background.d6b13229.jpg",
+    "static/media/Home.css": "/woodnote/static/media/pexels-asad-photo-maldives.7c2244a2.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.eb4c4db9.js",
+    "static/js/runtime-main.49fdd2f8.js",
     "static/css/2.1a02f21c.chunk.css",
-    "static/js/2.e32fcc2a.chunk.js",
-    "static/css/main.04ba8152.chunk.css",
-    "static/js/main.611534f1.chunk.js"
+    "static/js/2.e6a4b7bf.chunk.js",
+    "static/css/main.8696e71c.chunk.css",
+    "static/js/main.4fa0d3a1.chunk.js"
   ]
 }
